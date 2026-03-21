@@ -9,4 +9,4 @@ Testing activities:
 - Verified fixes with regression testing
 
 Tools used:
-Excel, Chrome DevTools, GitHub Issues
+Excel, Chrome DevTools
